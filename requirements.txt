@@ -8,5 +8,11 @@ fastapi>=0.100.0
 uvicorn>=0.22.0
 starlette>=0.27.0
 
+# AI
+langchain>=0.3.26
+langchain-core>=0.3.66
+langchain-openai>=0.3.25
+langchain-text-splitters>=0.3.8
+
 # 其他依赖
 python-multipart>=0.0.6  # 用于处理表单数据
