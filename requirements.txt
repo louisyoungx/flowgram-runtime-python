@@ -1,0 +1,12 @@
+# 基本依赖项
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+uuid>=1.30
+
+# FastAPI 相关依赖
+fastapi>=0.100.0
+uvicorn>=0.22.0
+starlette>=0.27.0
+
+# 其他依赖
+python-multipart>=0.0.6  # 用于处理表单数据
