@@ -1,5 +1,11 @@
 # FlowGram Python Runtime
 
+## 注意 ⚠️
+
+**本项目所有代码均为 AI 生成，仅作为技术交流和学习使用，不建议在生产环境中使用。**
+
+prompt 我放在 [prompt.md](./prompt.md) 文件中了，主要是和 AI 斗志斗勇的过程，并没有采用很高深的 prompt engineering 技巧。
+
 ## 项目概述
 
 FlowGram Python Runtime 是 [flowgram-runtime-js](https://github.com/bytedance/flowgram.ai/tree/main/packages/runtime/js-core) 的 Python 实现版本，旨在提供一个高效、可扩展的工作流运行时引擎。该项目保持与原始 JavaScript 版本相同的目录结构和功能，但利用了 Python 的语言特性和最佳实践。
